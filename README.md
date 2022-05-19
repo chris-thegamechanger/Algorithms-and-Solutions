@@ -31,7 +31,7 @@
 | `N <= 10^3` | `O(N^2)`                  |
 | `N <= 10^4` | `O(NlogN)`                |
 | `N <= 10^6` | `O(N)`                    |
-| `N > 10^6`  | `O(1)` or `O(logN)`       |
+| `N > 10^6`  | `O(1)` or `O(logN)'       |
 
 ## Solutions list (~600 Problems)
 
