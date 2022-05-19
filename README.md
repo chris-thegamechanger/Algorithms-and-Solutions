@@ -31,13 +31,13 @@
 | `N <= 10^3` | `O(N^2)`                  |
 | `N <= 10^4` | `O(NlogN)`                |
 | `N <= 10^6` | `O(N)`                    |
-| `N > 10^6`  | `O(1)` or `O(logN)'       |
+| `N > 10^6`  | `O(1)` or `O(logN)`       |
 
 ## Solutions list (~600 Problems)
 
 | #    | Title                                                                                                                                                                | Level  | Time                  | Space          | Tags                                                                                                 | Note                                    | Premium 🔒 |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------- | -------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------- | --------- |
-| 1    | [Two Sum](OOP_exercises.ipynb)                                                                                                                                          | Easy   | O(N)                  | O(N)           |                                                                                                      |                                         |           |
+| 1    | [Total](OOP_exercises.ipynb)                                                                                                                                          | Easy   | O(N)                  | O(N)           |                                                                                                      |                                         |           |
 | 7    | [Reverse Integer](src/7.reverse-integer.py)                                                                                                                          | Easy   | O(log x)              | O(1)           |                                                                                                      | Tricky                                  |           |
 | 11   | [Container With Most Water](src/11.container-with-most-water.py)                                                                                                     | Medium | O(N)                  | O(1)           | Array, Two Pointers, Greedy                                                                          |                                         |           |
 | 12   | [Integer to Roman](src/12.integer-to-roman.py)                                                                                                                       | Medium | O(N)                  | O(N)           | Math, String                                                                                         |                                         |           |
